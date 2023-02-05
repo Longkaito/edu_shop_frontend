@@ -2,19 +2,8 @@
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p className='color-red'>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p className="shoe-fz-24 mt-5 ms-5">test</p>
+
     </div>
   );
 }
